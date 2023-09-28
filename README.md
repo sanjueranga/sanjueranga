@@ -1,9 +1,8 @@
-# Hi there, I'm [Lakshitha Eranga]!
+# Hi there, I'm Lakshitha Eranga!
 
-- 🔭 I’m currently working on [DevoOps].
-- 🌱 I’m currently learning [Computer Science, Statistics, and Mathematics].
-- 💬 Ask me about [NodeJs, AWS , OOP , SQL ].
-- 📫 How to reach me: [(https://sanjueranga.github.io/portfolio/)].
+- 🔭 I’m currently working on [DevoOps](https://github.com/sanjueranga/DevOps).
+- 🌱 I’m currently learning Computer Science, Statistics, and Mathematics.
+- 📫 How to reach me: [portfolio](https://sanjueranga.github.io/portfolio/).
 
 <hr>
 
