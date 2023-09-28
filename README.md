@@ -6,5 +6,5 @@
 - 📫 How to reach me: [(https://sanjueranga.github.io/portfolio/)].
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?sanjueranga=your-sanjueranga&show_icons=true&theme=radical)](https://github.com/sanjueranga)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjueranga&show_icons=true&theme=radical)](https://github.com/sanjueranga)
 
