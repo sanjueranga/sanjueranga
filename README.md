@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,r)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,flask)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
