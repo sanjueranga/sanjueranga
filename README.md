@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,flask)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,linux,git,kubernetes,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
