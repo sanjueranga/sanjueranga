@@ -26,8 +26,11 @@
 </p>
 
 
+
 ### 📈 My Github Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjueranga&theme=blue-green)](https://git.io/streak-stats)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilankayapagit&count_private=true&show_icons=true&locale=en&theme=synthwave" alt="Yapa-Lanka-Developers" /></p>
 <hr>
