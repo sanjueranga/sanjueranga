@@ -1,6 +1,6 @@
 # Hi there, I'm Lakshitha Eranga!
 
-- 🔭 I’m currently working on [DevoOps](https://github.com/sanjueranga/DevOps).
+- 🔭 I’m currently working on [DevoOps](https://github.com/sanjueranga/Django_REST).
 - 🌱 I’m currently learning Computer Science, Statistics, and Mathematics.
 - 📫 How to reach me: [portfolio](https://sanjueranga.github.io/portfolio/).
 
