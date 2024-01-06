@@ -10,7 +10,7 @@
 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css,r)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,next,django)](https://skillicons.dev)
