@@ -1,7 +1,6 @@
 # Hi there, I'm Lakshitha Eranga!
 
-- 🔭 I’m currently working on [Django REST API](https://github.com/sanjueranga/Django_REST).
-- 🌱 I’m currently learning Computer Science, Statistics, and Mathematics.
+- 🌱 I’m currently studying Computer Science at the University Of Peradeniya
 - 📫 How to reach me: [portfolio](https://sanjueranga.github.io/portfolio/).
 
 <hr>
