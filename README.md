@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjueranga&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" /></p>
  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virangaj&layout=compact&theme=transparent" alt="Virangaj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjueranga&layout=compact&theme=transparent" alt="sanjueranga" />
 <hr>
 
