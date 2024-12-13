@@ -9,10 +9,10 @@
 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,r)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,nestjs,react,next,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,spring,nestjs,react,next)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
