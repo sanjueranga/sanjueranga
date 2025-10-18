@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,r)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,spring,nestjs,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=n8n,langchain,django,nodejs,spring,nestjs,react,next)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
