@@ -1,7 +1,7 @@
 # Hi there, I'm Lakshitha Eranga!
 
 - 🌱 I’m currently studying Computer Science at the University Of Peradeniya
-- 📫 How to reach me: [portfolio](https://sanjueranga.github.io/portfolio/).
+- 📫 How to reach me: [portfolio](https://lakshithe.xanvia.tech).
 
 <hr>
 
