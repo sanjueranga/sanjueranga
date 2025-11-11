@@ -1,6 +1,9 @@
 # Hi there, I'm Lakshitha Eranga!
 
-- 🌱 I’m currently studying Computer Science at the University Of Peradeniya
+I partner with founders to build intelligent, production-ready SaaS MVPs.
+
+Explore my work in complex backends, scalable DevOps, and advanced AI.
+
 - 📫 How to reach me: [portfolio](https://lakshithe.xanvia.tech).
 
 <hr>
