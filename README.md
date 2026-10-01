@@ -29,16 +29,5 @@ Explore my work in complex backends, scalable DevOps, and advanced AI.
 
 
 
-### 📈 My Github Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjueranga&theme=blue-green)](https://git.io/streak-stats)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjueranga&count_private=true&show_icons=true&locale=en&theme=blue-green" alt="sanju" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjueranga&layout=compact&theme=transparent" alt="sanjueranga" />
-</p>
-
-
 <hr>
 
