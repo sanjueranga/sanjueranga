@@ -1,33 +1,24 @@
-# Hi there, I'm Lakshitha Eranga!
+## Hi, I'm Lakshitha 👋
 
-I partner with founders to build intelligent, production-ready SaaS MVPs.
+**Backend & infrastructure engineer for AI/ML.** I build the systems that ML runs on: distributed pipelines, cloud infrastructure, and the plumbing between models and hardware.
 
-Explore my work in complex backends, scalable DevOps, and advanced AI.
+- 🏗️ Design backend and infrastructure for AI products and teams: distributed task pipelines (Celery), AWS, Terraform, containers, production deployments
+- 🔬 Research at University of Peradeniya on **ML workloads on heterogeneous distributed systems** (first-author paper, ISBM 2026), continuing this work with a systems and networking research group at UoP
+- 🎓 BSc (Hons) Computer Science, University of Peradeniya, First Class Honours
+- 🧑‍🏫 Temporary Demonstrator, Dept. of Statistics and Computer Science, University of Peradeniya
 
-- 📫 How to reach me: [portfolio](https://lakshithe.xanvia.tech).
+### 📄 Papers
+- *Parallelism Isn't Free: Two Hidden Walls in a Heterogeneous Media-Understanding Pipeline*. First author. Accepted and presented at ISBM 2026, Bangkok; proceedings to appear in Springer LNNS.
+- *A two-stage output-space parameter-efficient transfer learning framework for low-resource medical imaging adaptation*. Under review, Ceylon Journal of Science.
 
-<hr>
+### 🔭 Currently
+- Going deeper into the lower layers of AI infrastructure: memory, concurrency and data movement in C/C++ on Linux
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tools
+**Languages:** Python, Java, C/C++, TypeScript
+**Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Linux, Celery
+**ML & parallel:** PyTorch, CUDA, OpenMPI
+**Data:** PostgreSQL, MySQL, MongoDB
 
-<p>
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,r)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,spring,nestjs,react,next)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,kubernetes,docker)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=atom,vscode,eclipse,idea)](https://skillicons.dev)
-</p>
-
-
-
-<hr>
-
+### 📫 Contact
+[lakshithae.com](https://lakshithae.com) · [LinkedIn](https://linkedin.com/in/lakshithe) · lakshitha.eh@gmail.com
