@@ -21,4 +21,4 @@
 - **Data:** PostgreSQL, MySQL, MongoDB
 
 ### 📫 Contact
-[lakshithae.com](https://lakshithae.com) · [LinkedIn](https://linkedin.com/in/lakshithe) · lakshitha.eh@gmail.com
+[lakshithae.com](https://lakshithae.com) · [LinkedIn](https://linkedin.com/in/lakshithe) 
