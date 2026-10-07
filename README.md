@@ -17,7 +17,7 @@
 ### 🛠️ Tools
 - **Languages:** Python, Java, C/C++, TypeScript
 - **Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Linux, Celery
-- **ML & parallel:** PyTorch, CUDA, OpenMPI
+- **ML & parallel:** PyTorch, Tensorflow , CUDA, OpenMPI
 - **Data:** PostgreSQL, MySQL, MongoDB
 
 ### 📫 Contact
