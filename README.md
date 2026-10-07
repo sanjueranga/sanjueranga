@@ -15,10 +15,10 @@
 - Going deeper into the lower layers of AI infrastructure: memory, concurrency and data movement in C/C++ on Linux
 
 ### 🛠️ Tools
-**Languages:** Python, Java, C/C++, TypeScript
-**Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Linux, Celery
-**ML & parallel:** PyTorch, CUDA, OpenMPI
-**Data:** PostgreSQL, MySQL, MongoDB
+- **Languages:** Python, Java, C/C++, TypeScript
+- **Infrastructure:** AWS, GCP, Terraform, Docker, Kubernetes, Linux, Celery
+- **ML & parallel:** PyTorch, CUDA, OpenMPI
+- **Data:** PostgreSQL, MySQL, MongoDB
 
 ### 📫 Contact
 [lakshithae.com](https://lakshithae.com) · [LinkedIn](https://linkedin.com/in/lakshithe) · lakshitha.eh@gmail.com
