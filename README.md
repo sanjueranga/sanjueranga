@@ -20,5 +20,17 @@
 - **ML & parallel:** PyTorch, Tensorflow , CUDA, OpenMPI
 - **Data:** PostgreSQL, MySQL, MongoDB
 
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,ts,pytorch,tensorflow" alt="Languages and frameworks" />
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux,postgres,mysql,mongodb" alt="Cloud and databases" />
+  </a>
+</p>
+
 ### 📫 Contact
 [lakshithae.com](https://lakshithae.com) · [LinkedIn](https://linkedin.com/in/lakshithe) 
